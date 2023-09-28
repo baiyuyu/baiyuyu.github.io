@@ -4,102 +4,11 @@
   
   
   <entry>
-    <title>XGBoost and Random Forest</title>
-    <link href="/2023/09/29/XGBoost-and-Random-Forest/"/>
-    <url>/2023/09/29/XGBoost-and-Random-Forest/</url>
-    
-    <content type="html"><![CDATA[]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>Awards and grants</title>
-    <link href="/2023/09/11/Awards-and-grants/"/>
-    <url>/2023/09/11/Awards-and-grants/</url>
-    
-    <content type="html"><![CDATA[]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>activies</title>
-    <link href="/2023/09/10/activies/"/>
-    <url>/2023/09/10/activies/</url>
-    
-    <content type="html"><![CDATA[]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>Sudoku_solver_SAT</title>
-    <link href="/2023/09/10/Sudoku_solver/"/>
-    <url>/2023/09/10/Sudoku_solver/</url>
-    
-    <content type="html"><![CDATA[<p>Using the SAT method to solver high dimentional Sudoku.<br>In this project, I worked on the coding part and worked as the team leader.</p><div class="row">    <embed src="/pdf/SAT-Solver-KR.pdf" width="100%" height="550" type="application/pdf"></div><p>Github:<a href="https://github.com/baiyuyu/KR2020_Sudoku_solver_SAT">https://github.com/baiyuyu/KR2020_Sudoku_solver_SAT</a></p>]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>Recommandation System</title>
-    <link href="/2023/09/10/Recommendation%20system/"/>
-    <url>/2023/09/10/Recommendation%20system/</url>
-    
-    <content type="html"><![CDATA[<p>A Recomandation System. Data is from a kaggle competation from expedia. I mainly worked on feature enginering and LightgbmRanker and achived the best performance of NDCG 0.426. I worked as the team leader.</p><div class="row">    <embed src="/pdf/dmt2_report.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>Mood detection project</title>
-    <link href="/2023/09/10/Mood%20detection/"/>
-    <url>/2023/09/10/Mood%20detection/</url>
-    
-    <content type="html"><![CDATA[<p>A data Mining project for time series data. Use several ML models. I worked for the feature enginering and XGBoost model. I worked as the team leader.</p><div class="row">    <embed src="/pdf/data-mining-report.pdf" width="100%" height="550" type="application/pdf"></div><p>github: <a href="https://github.com/baiyuyu/dmt-asg">https://github.com/baiyuyu/dmt-asg</a></p>]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
     <title>Projects</title>
     <link href="/2023/09/10/projects/"/>
     <url>/2023/09/10/projects/</url>
     
     <content type="html"><![CDATA[<ol><li><a href="http://localhost:4000/2023/09/10/evolutionary-computing/">The research report for evolutionary computing</a></li></ol><p>2.<a href="http://localhost:4000/2023/09/10/kr01/">The research report for knowledge graph</a></p><p>3.<a href="http://localhost:4000/2023/09/10/kr03/">The research report for knowledge graph</a></p><p>4.<a href="http://localhost:4000/2023/09/10/dmt/">The research report for data mining</a></p><p>5.<a href="http://localhost:4000/2023/09/10/dmt02/">The research report for data mining</a></p><p>6.<a href="http://localhost:4000/2023/09/10/kre/">The research report for knowledge graph adv</a></p>]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>Research-Project:bridging the modalities(Master-thesis)</title>
-    <link href="/2023/09/10/Bridging-the-modalities/"/>
-    <url>/2023/09/10/Bridging-the-modalities/</url>
-    
-    <content type="html"><![CDATA[<div class="row">    <embed src="/pdf/presentation.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
     
     
     
@@ -121,11 +30,50 @@
   
   
   <entry>
+    <title>Research-Project:bridging the modalities(Master-thesis)</title>
+    <link href="/2023/06/10/Bridging-the-modalities/"/>
+    <url>/2023/06/10/Bridging-the-modalities/</url>
+    
+    <content type="html"><![CDATA[<div class="row">    <embed src="/pdf/presentation.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Recommandation System</title>
+    <link href="/2022/05/30/Recommendation%20system/"/>
+    <url>/2022/05/30/Recommendation%20system/</url>
+    
+    <content type="html"><![CDATA[<p>A Recomandation System. Data is from a kaggle competation from expedia. I mainly worked on feature enginering and LightgbmRanker and achived the best performance of NDCG 0.426. I worked as the team leader.</p><div class="row">    <embed src="/pdf/dmt2_report.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Socially Intelligent Robotics Project</title>
     <link href="/2022/04/30/robot/"/>
     <url>/2022/04/30/robot/</url>
     
     <content type="html"><![CDATA[<h1 id="Project-Overview"><a href="#Project-Overview" class="headerlink" title="Project Overview"></a>Project Overview</h1><p>This project primarily focuses on robot programming and aims to design a social robot that can provide companionship to sick children. The robot’s main functions include accompanying children during medical consultations with doctors, alleviating their anxiety, and assisting nurses in recording essential information. This report provides a comprehensive overview of the project, along with accompanying videos.</p><h1 id="My-duty"><a href="#My-duty" class="headerlink" title="My duty"></a>My duty</h1><p>My role within this project is to write the necessary software programs to ensure the robot functions according to the designed specifications.</p><h1 id="video"><a href="#video" class="headerlink" title="video"></a>video</h1><iframe width="560" height="315" src="https://www.youtube.com/embed/eMOn2Qpy8yc?si=w4n9u76OjkbVLUaw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><p>The code repository is here:</p><h1 id="skill"><a href="#skill" class="headerlink" title="skill"></a>skill</h1><p>Comminucation, Python, Choreography, Flask</p><h1 id="Presentation"><a href="#Presentation" class="headerlink" title="Presentation"></a>Presentation</h1><div class="row">    <embed src="/pdf/Nao-presentation.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Mood detection project</title>
+    <link href="/2022/04/10/Mood%20detection/"/>
+    <url>/2022/04/10/Mood%20detection/</url>
+    
+    <content type="html"><![CDATA[<p>A data Mining project for time series data. Use several ML models. I worked for the feature enginering and XGBoost model. I worked as the team leader.</p><div class="row">    <embed src="/pdf/data-mining-report.pdf" width="100%" height="550" type="application/pdf"></div><p>github: <a href="https://github.com/baiyuyu/dmt-asg">https://github.com/baiyuyu/dmt-asg</a></p>]]></content>
     
     
     
@@ -173,6 +121,32 @@
   
   
   <entry>
+    <title>Sudoku_solver_SAT</title>
+    <link href="/2021/10/10/Sudoku_solver/"/>
+    <url>/2021/10/10/Sudoku_solver/</url>
+    
+    <content type="html"><![CDATA[<p>Using the SAT method to solver high dimentional Sudoku.<br>In this project, I worked on the coding part and worked as the team leader.</p><div class="row">    <embed src="/pdf/SAT-Solver-KR.pdf" width="100%" height="550" type="application/pdf"></div><p>Github:<a href="https://github.com/baiyuyu/KR2020_Sudoku_solver_SAT">https://github.com/baiyuyu/KR2020_Sudoku_solver_SAT</a></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>XGBoost and Random Forest</title>
+    <link href="/2021/09/29/XGBoost-and-Random-Forest/"/>
+    <url>/2021/09/29/XGBoost-and-Random-Forest/</url>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>evaluation metric for binary classifacation</title>
     <link href="/2021/09/08/Classifacation-metrics/"/>
     <url>/2021/09/08/Classifacation-metrics/</url>
@@ -204,6 +178,32 @@
     <url>/2021/04/01/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</url>
     
     <content type="html"><![CDATA[<h1 id=""><a href="#" class="headerlink" title=""></a></h1><ol><li>简介{:toc}</li></ol><h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a><strong>简介</strong></h1><p>这个系列的读书笔记主要在于回顾机器学习的一些基础知识，形成体系和系统，以机器学习实战和西瓜书中的内容为指导。</p><p>本篇主要是学习决策树ID3算法的一些细节</p><hr><ul><li>前言：之前对决策树只是有个大概的，轮廓上的理解。果然只有自己亲自看一遍代码，才能更深入的理解其中的细节呀。之后有时间的话还要自己写一遍（先立个flag)</li></ul><hr><h1 id="K-邻近算法-K-near-neighbors"><a href="#K-邻近算法-K-near-neighbors" class="headerlink" title="K-邻近算法(K-near-neighbors)"></a><strong>K-邻近算法(K-near-neighbors)</strong></h1><p>话不多说，直接写算法的细节，流程。</p><p>dataframe n*m n个样本，m-1个特征，最后一个是label</p><p>首先计算n个样本所有label的熵值 计算公式：香农熵</p><p>$\sum PI*log(PI)$</p><p>$\sum p_i$</p><h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a><strong>总结</strong></h1><p>优点：简单有效，异常值不敏感，精度高</p><p>缺点：开销大，计算复杂，存储空间大</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Awards and grants</title>
+    <link href="/2020/09/11/Awards-and-grants/"/>
+    <url>/2020/09/11/Awards-and-grants/</url>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Activies</title>
+    <link href="/2020/09/10/activies/"/>
+    <url>/2020/09/10/activies/</url>
+    
+    <content type="html"><![CDATA[]]></content>
     
     
     
