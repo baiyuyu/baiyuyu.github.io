@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>XGBoost and Random Forest</title>
+    <link href="/2023/09/29/XGBoost-and-Random-Forest/"/>
+    <url>/2023/09/29/XGBoost-and-Random-Forest/</url>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Awards and grants</title>
     <link href="/2023/09/11/Awards-and-grants/"/>
     <url>/2023/09/11/Awards-and-grants/</url>
@@ -30,24 +43,11 @@
   
   
   <entry>
-    <title>awards</title>
-    <link href="/2023/09/10/awards/"/>
-    <url>/2023/09/10/awards/</url>
+    <title>Sudoku_solver_SAT</title>
+    <link href="/2023/09/10/Sudoku_solver/"/>
+    <url>/2023/09/10/Sudoku_solver/</url>
     
-    <content type="html"><![CDATA[]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>Knowledge graph 01</title>
-    <link href="/2023/09/10/kr01/"/>
-    <url>/2023/09/10/kr01/</url>
-    
-    <content type="html"><![CDATA[<div class="row">    <embed src="/pdf/SAT-Solver-KR.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
+    <content type="html"><![CDATA[<p>Using the SAT method to solver high dimentional Sudoku.<br>In this project, I worked on the coding part and worked as the team leader.</p><div class="row">    <embed src="/pdf/SAT-Solver-KR.pdf" width="100%" height="550" type="application/pdf"></div><p>Github:<a href="https://github.com/baiyuyu/KR2020_Sudoku_solver_SAT">https://github.com/baiyuyu/KR2020_Sudoku_solver_SAT</a></p>]]></content>
     
     
     
@@ -56,24 +56,11 @@
   
   
   <entry>
-    <title>Knowledge graph 02</title>
-    <link href="/2023/09/10/kr02/"/>
-    <url>/2023/09/10/kr02/</url>
+    <title>Mood detection project</title>
+    <link href="/2023/09/10/Mood%20detection/"/>
+    <url>/2023/09/10/Mood%20detection/</url>
     
-    <content type="html"><![CDATA[<div class="row">    <embed src="/pdf/kr_pmg_report.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>dmt01</title>
-    <link href="/2023/09/10/dmt/"/>
-    <url>/2023/09/10/dmt/</url>
-    
-    <content type="html"><![CDATA[<div class="row">    <embed src="/pdf/data-mining-report.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
+    <content type="html"><![CDATA[<p>A data Mining project for time series data. Use several ML models. I worked for the feature enginering and XGBoost model. I worked as the team leader.</p><div class="row">    <embed src="/pdf/data-mining-report.pdf" width="100%" height="550" type="application/pdf"></div><p>github: <a href="https://github.com/baiyuyu/dmt-asg">https://github.com/baiyuyu/dmt-asg</a></p>]]></content>
     
     
     
@@ -82,11 +69,11 @@
   
   
   <entry>
-    <title>dmt01</title>
-    <link href="/2023/09/10/dmt02/"/>
-    <url>/2023/09/10/dmt02/</url>
+    <title>Recommandation System</title>
+    <link href="/2023/09/10/Recommendation%20system/"/>
+    <url>/2023/09/10/Recommendation%20system/</url>
     
-    <content type="html"><![CDATA[<div class="row">    <embed src="/pdf/dmt2_report.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
+    <content type="html"><![CDATA[<p>A Recomandation System. Data is from a kaggle competation from expedia. I mainly worked on feature enginering and LightgbmRanker and achived the best performance of NDCG 0.426. I worked as the team leader.</p><div class="row">    <embed src="/pdf/dmt2_report.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
     
     
     
@@ -108,11 +95,11 @@
   
   
   <entry>
-    <title>bridging the modalities(slides for master thesis)</title>
+    <title>Research-Project:bridging the modalities(Master-thesis)</title>
     <link href="/2023/09/10/bridging-the-modalities/"/>
     <url>/2023/09/10/bridging-the-modalities/</url>
     
-    <content type="html"><![CDATA[<div class="row">    <embed src="/pdf/Resume_Yuyu_Bai.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
+    <content type="html"><![CDATA[<div class="row">    <embed src="/pdf/presentation.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
     
     
     
@@ -148,10 +135,23 @@
   
   <entry>
     <title>A WEB application for display a Primate Ontology</title>
-    <link href="/2022/03/20/kre/"/>
-    <url>/2022/03/20/kre/</url>
+    <link href="/2022/03/20/primate-ontology-project/"/>
+    <url>/2022/03/20/primate-ontology-project/</url>
     
     <content type="html"><![CDATA[<h1 id="Project-Overview"><a href="#Project-Overview" class="headerlink" title="Project Overview:"></a>Project Overview:</h1><p>This project aims to create an ontology of non-human primates (excluding the Homo genus) and build a web application to analyze primate observations using various open-source tools and data sources. The project integrates RDF technology, open-source biodiversity data, and web application development to provide valuable insights into primate populations and distributions.</p><h1 id="Project-Components"><a href="#Project-Components" class="headerlink" title="Project Components:"></a>Project Components:</h1><h3 id="Ontology-Development"><a href="#Ontology-Development" class="headerlink" title="Ontology Development:"></a>Ontology Development:</h3><p>Skill Utilized: RDF, OWL, Ontology Design<br>Description: Design and develop an ontology for non-human primates based on the RDF-ized NCBI taxonomy, adhering to the Darwin Core vocabulary for standardization.</p><h3 id="Data-Integration"><a href="#Data-Integration" class="headerlink" title="Data Integration:"></a>Data Integration:</h3><p>Skill Utilized: Data Integration, SPARQL<br>Description: Integrate primate observations from iNaturalist with location data from GeoNames. Align taxonomy using NCBI Taxonomy.</p><h3 id="Web-Application-Development"><a href="#Web-Application-Development" class="headerlink" title="Web Application Development:"></a>Web Application Development:</h3><p>Skill Utilized: Python, Streamlit<br>Description: Develop an interactive web application for exploring the ontology and analyzing primate observations. Features include data summaries, observations mapping, spread comparisons, trend analyses, SPARQL query capabilities, and data visualization tools.<br>Publication and Hosting:</p><h3 id="Skill-Utilized-GitHub-Triply"><a href="#Skill-Utilized-GitHub-Triply" class="headerlink" title="Skill Utilized: GitHub, Triply"></a>Skill Utilized: GitHub, Triply</h3><p>Description: Publish the ontology on GitHub and Triply for public access. Host the web application on a suitable platform.</p><h1 id="Project-Responsibilities"><a href="#Project-Responsibilities" class="headerlink" title="Project Responsibilities:"></a>Project Responsibilities:</h1><p>Ontology Development: Design and develop the ontology structure, taxonomy alignment, and ontology documentation.</p><p>Web Application Development: Create an interactive web application using Python and Streamlit, enabling users to explore ontology data and analyze primate observations.</p><p>Publication and Hosting: Publish the ontology on GitHub and Triply, and host the web application for public access.</p><p>Build the docker image.</p><p>Outcome:<br>The project results in a comprehensive ontology of non-human primates and an interactive web application that allows researchers and enthusiasts to explore primate populations, distributions, and trends based on observational data and taxonomy alignment.</p><h1 id="Skill"><a href="#Skill" class="headerlink" title="Skill:"></a>Skill:</h1><p>Python,Streamlit,SPARQL,Docker,Triply</p><div class="row">    <embed src="/pdf/KRW_taxon_project.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>A use case of Bayesian networks and causal inference</title>
+    <link href="/2021/11/10/A%20use%20case%20of%20Bayesian%20networks%20and%20causal%20inference/"/>
+    <url>/2021/11/10/A%20use%20case%20of%20Bayesian%20networks%20and%20causal%20inference/</url>
+    
+    <content type="html"><![CDATA[<p>Using the Bayesian networks to solver real work problem.</p><p>In this project, I worked on the coding part and worked as the team leader.</p><div class="row">    <embed src="/pdf/kr_pmg_report.pdf" width="100%" height="550" type="application/pdf"></div><p>github: <a href="https://github.com/baiyuyu/krgroup25">https://github.com/baiyuyu/krgroup25</a></p><p>Skill:<br>Networkx, Python, Bayesian networks,causal inference </p>]]></content>
     
     
     
